@@ -4,8 +4,6 @@
 
 💻 I'm passionate about full-stack web development and have experience working with technologies like JavaScript, Node.js, and Express.
 
-🌱 I'm currently learning React.js to enhance my frontend development skills.
-
 📫 You can reach me at: gopalmehtre34@gmail.com
 
 🔗 Connect with me:
@@ -32,6 +30,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socketdotio)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=764ABC)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
+
 
 
 ---
