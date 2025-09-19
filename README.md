@@ -37,13 +37,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
 
 
-
----
-
-### 📈 GitHub Stats
-
-![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopalmehtre&show_icons=true&theme=radical)
-
 ---
 
 ### 📂 Featured Projects
