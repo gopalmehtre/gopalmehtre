@@ -42,7 +42,8 @@
 ### 📂 Featured Projects
 
 - [wanderlust](https://github.com/gopalmehtre/wanderlust): A travel-themed web application built with JavaScript.
-- [sql-node.js-repo](https://github.com/gopalmehtre/sql-node.js-repo): A Node.js project demonstrating SQL integration.
+- [SyncUP](https://github.com/gopalmehtre/SyncUp-WebRTC-app): A WebRTC based Video Conferencing Platform built using Sockets.io.
+
 
 ---
 
