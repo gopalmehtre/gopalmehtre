@@ -43,6 +43,7 @@
 
 - [wanderlust](https://github.com/gopalmehtre/wanderlust): A travel-themed web application built with JavaScript.
 - [SyncUP](https://github.com/gopalmehtre/SyncUp-WebRTC-app): A WebRTC based Video Conferencing Platform built using Sockets.io.
+-  [TradeX](https://github.com/gopalmehtre/TradeX-a-stock-trading-platform): A Stock Trading Platform built using MERN Stack.
 
 
 ---
