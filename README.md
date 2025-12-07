@@ -6,7 +6,7 @@
 
 📫 You can reach me at: gopalmehtre34@gmail.com
 
-🔗 Connect with me:
+### 📫 Let's Connect!
 - [LinkedIn](https://in.linkedin.com/in/gopal-mehtre-332a10257)
 
 ---
@@ -47,6 +47,3 @@
 
 
 ---
-
-### 📫 Let's Connect!
-
