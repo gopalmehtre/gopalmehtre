@@ -42,8 +42,10 @@
 ### 📂 Featured Projects
 
 -  [TradeX](https://github.com/gopalmehtre/TradeX-a-stock-trading-platform): A Stock Trading Platform built using MERN Stack.
-- [wanderlust](https://github.com/gopalmehtre/wanderlust): A travel-themed web application built with JavaScript.
 - [SyncUP](https://github.com/gopalmehtre/SyncUp-WebRTC-app): A WebRTC based Video Conferencing Platform built using Sockets.io.
+- [Orbit-AI](https://github.com/gopalmehtre/Orbit-AI-an-AI-ChatBot): A Full-Stack conversational AI Chatbot.
+- [Restaurant Booking Voice-Agent](https://github.com/gopalmehtre/Restaurant-booking-voice-agent): A smart voice agent built with Gemini API that automates the restraunt booking system.
+-  [wanderlust](https://github.com/gopalmehtre/wanderlust): A travel-themed web application built with JavaScript.
 
 
 ---
