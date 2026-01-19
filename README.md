@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Gopal Mehtre
 
-🎓 I'm currently pursuing a Bachelor's degree in Computer Science and Engineering at DY Patil International University, Pune.
-
-💻 I'm passionate about full-stack web development and have experience working with technologies like JavaScript, Node.js, and Express.
+💻 I'm a Full Stack Software Developer, Building applications -- from frontend pixels to backend logic.
 
 📫 You can reach me at: gopalmehtre34@gmail.com
 
@@ -14,6 +12,7 @@
 ### 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
